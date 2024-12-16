@@ -9,6 +9,5 @@ public class KdSpringbootApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(KdSpringbootApplication.class, args);
-        System.out.println("Running Template Code .....");
     }
 }
